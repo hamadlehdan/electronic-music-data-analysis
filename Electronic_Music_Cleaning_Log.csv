@@ -1,0 +1,3 @@
+﻿Source File,Source Row,Track Name,Field,Original Value,Cleaned Value,Reason
+dub_techno.csv,83,OBMX - cv313 Reduction,ISRC,GB-QLP-08-00215,GBQLP0800215,Standardize ISRC: remove formatting hyphens
+minimal_tech.csv,13,Edificio - Audio Injection Remix,ISRC,NL-PJ6-10-00004,NLPJ61000004,Standardize ISRC: remove formatting hyphens
